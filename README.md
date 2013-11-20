@@ -22,4 +22,4 @@ Of course, if you are using this properly, you won't be around to see the second
  
 ### Personal Plug 
 
-You can see it [in action here][http://gunnargissel.com/standup.html]
+You can see it [in action here](http://gunnargissel.com/standup.html)
