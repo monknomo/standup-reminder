@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<title>Stand Up</title>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+		<script src="js/standup.js"></script>		
+		<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"></link>
+		<link rel="stylesheet" href="css/standup2.css"></link>
+	</head>
+	<body onload="onLoad()">
+		<div class="wrapper">
+			<div class="header">
+				<div id="headerTitle"><h1>Move Around</h1></div>
+			</div>
+			<div id="spacer"></div>
+			<div id="content">
+				
+				<div id="timers">
+					<div id="firstTimer" class="timer">
+						Time remaining to work:
+						<h4 id="timeRemaining1">15:00</h4>
+					</div>
+					<br/>
+					<div id="secondTimer" class="timer">
+						Time remaining to move around:
+						<h4 id="timeRemaining2">1:00</h4>
+					</div>
+					<br/>
+					<div id="startTimerButton">Start</div>
+				</div>   
+			</div>
+			<div class="push"></div>
+		</div>
+		<footer class="footer">
+			<div id="footerTopper"></div>
+			<div id="footerText">&#169; - All Rights Reserved, Gunnar Gissel ggissel@alumni.cmu.edu</div>
+		</footer>
+	</body>
+</html>
