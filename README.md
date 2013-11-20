@@ -12,3 +12,5 @@ minutes.
 Of course, if you are using this properly, you won't be around to see the second
  dialog, but that is more of a people problem than something that can be solved 
  with an app
+ 
+You can see it [in action here][http://gunnargissel.com/standup.html]
